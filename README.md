@@ -7,8 +7,9 @@ Hello (ENG-version)
 - 📫 How to reach me daniasadallah@gmail.com or daniasadallah@sempreceub.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love to play and in my favorite game, League of legends I have over 1kk maestry points with Yuumi
+  
 
-- Olá (PT-Br-versão)
+Olá (PT-Br-versão)
 
 - 👋 Olá! Eu sou a @Dania-dev9
 - 👀 Tenho interesse em programação e jogos
