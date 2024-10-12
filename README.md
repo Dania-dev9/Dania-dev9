@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dania-dev9
 - 👀 I’m interested in programming and games
 - 🌱 I’m currently learning how to program and also I'm studying systems analysis and development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on software programms
+- 📫 How to reach me daniasadallah@gmail.com or daniasadallah@sempreceub.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love to play and in my favorite game, League of legends I have over 1kk maestry points with Yuumi
 
