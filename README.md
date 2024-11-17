@@ -8,6 +8,7 @@ Hello (ENG-version)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love to play and in my favorite game, League of legends I have over 1kk maestry points with Yuumi
   
+  My LinkedIn: https://www.linkedin.com/notifications/?filter=all
 
 Olá (PT-Br-versão)
 
@@ -23,4 +24,5 @@ Olá (PT-Br-versão)
 Dania-dev9/Dania-dev9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://www.linkedin.com/notifications/?filter=all
+
+Meu LinkedIn: https://www.linkedin.com/notifications/?filter=all
