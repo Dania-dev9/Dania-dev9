@@ -15,19 +15,11 @@
 
 **English**
 
-Hi! I'm Dania, a technology enthusiast and Systems Analysis and Development student.
-
-I have a degree in Pedagogy from the University of Brasília (UnB) and I'm currently building my journey in software development.
-
-I'm passionate about learning new technologies, solving problems and creating meaningful digital experiences.
+Hi! I'm Dania, a technology enthusiast and Systems Analysis and Development student. I have a degree in Pedagogy from the University of Brasília (UnB) and I'm currently building my journey in software development. I'm passionate about learning new technologies, solving problems and creating meaningful digital experiences.
 
 **Português**
 
-Olá! Sou Dania, entusiasta de tecnologia e estudante de Análise e Desenvolvimento de Sistemas.
-
-Sou graduada em Pedagogia pela Universidade de Brasília (UnB) e atualmente estou construindo minha trajetória na área de desenvolvimento de software.
-
-Gosto de aprender novas tecnologias, resolver problemas e criar experiências digitais significativas.
+Olá! Sou Dania, entusiasta de tecnologia e estudante de Análise e Desenvolvimento de Sistemas. Sou graduada em Pedagogia pela Universidade de Brasília (UnB) e atualmente estou construindo minha trajetória na área de desenvolvimento de software. Gosto de aprender novas tecnologias, resolver problemas e criar experiências digitais significativas.
 
 ---
 
