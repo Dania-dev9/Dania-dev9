@@ -1,5 +1,3 @@
-# 🌸 Hello, World! I'm Dania Kader
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBC2EB,100:A18CD1&height=200&section=header&text=Dania%20Kader&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technology%20%7C%20Creativity%20%7C%20Learning&descAlignY=58&descSize=16" width="100%"/>
