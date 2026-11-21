@@ -15,7 +15,7 @@
 
 ## 🎀 About Me | Sobre mim
 
-🇺🇸 **English**
+**English**
 
 Hi! I'm Dania, a technology enthusiast and Systems Analysis and Development student.
 
@@ -23,7 +23,7 @@ I have a degree in Pedagogy from the University of Brasília (UnB) and I'm curre
 
 I'm passionate about learning new technologies, solving problems and creating meaningful digital experiences.
 
-🇧🇷 **Português**
+**Português**
 
 Olá! Sou Dania, entusiasta de tecnologia e estudante de Análise e Desenvolvimento de Sistemas.
 
