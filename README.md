@@ -20,8 +20,8 @@ Hi! I'm Dania, a technology enthusiast and Systems Analysis and Development stud
 **Português**
 
 Olá! Sou Dania, entusiasta de tecnologia e estudante de Análise e Desenvolvimento de Sistemas. Sou graduada em Pedagogia pela Universidade de Brasília (UnB) e atualmente estou construindo minha trajetória na área de desenvolvimento de software. Gosto de aprender novas tecnologias, resolver problemas e criar experiências digitais significativas.
-**
-العربية**
+
+**العربية**
 
 مرحباً! أنا دانيا، شغوفة بالتكنولوجيا وطالبة في تخصص تحليل وتطوير الأنظمة. أحمل شهادة في علم التربية من جامعة برازيليا (UnB)، وأعمل حالياً على بناء مسيرتي المهنية في مجال تطوير البرمجيات. أحب تعلم التقنيات الجديدة، وحل المشكلات، وإنشاء تجارب رقمية هادفة.
 
