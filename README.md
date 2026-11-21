@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBC2EB,100:A18CD1&height=200&section=header&text=Dania%20Kader&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technology%20%7C%20Creativity%20%7C%20Learning&descAlignY=58&descSize=16" width="100%"/>
 
-### 💗 Turning curiosity into code!
+### Turning curiosity into code!
 ### Transformando curiosidade em código!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dania--dev9-D63384?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dania-dev9)
